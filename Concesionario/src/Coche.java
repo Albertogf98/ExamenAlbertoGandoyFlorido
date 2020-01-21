@@ -1,6 +1,9 @@
 
 
 //Autor: Alberto Gandoy Florido.
+
+
+//Descipción: clase Coche.
 public class Coche {
     private String modelo;
 
